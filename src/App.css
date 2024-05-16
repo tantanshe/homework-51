@@ -4,3 +4,20 @@
   padding: 2rem;
   text-align: center;
 }
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.balls-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
